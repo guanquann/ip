@@ -153,3 +153,7 @@ Data are saved automatically as a text file [JAR file location]/data/tasks.txt. 
 | Delete       | `delete INDEX`                          |
 | Find         | `find KEYWORD`                          |
 | Exit         | `bye`                                   |
+
+# Acknowledgements
+GitHub Copilot is used to generate JavaDoc, but all generated comments are vetted and modified when needed to ensure that they are accurate.
+
